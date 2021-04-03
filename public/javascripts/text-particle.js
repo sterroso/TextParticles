@@ -115,10 +115,10 @@ class Particle {
 function init() {
     ctx.fillStyle = '#DC143C';
     ctx.font = '30px Verdana';
-    ctx.fillText('Sergio', 0, 30);
+    ctx.fillText('Particles', 0, 30);
     
     
-    const scanData = ctx.getImageData(0, 0, 110, 50);
+    const scanData = ctx.getImageData(0, 0, 150, 50);
 
     const X_OFFSET = 50;
     const Y_OFFSET = 50;
