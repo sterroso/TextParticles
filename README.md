@@ -31,12 +31,12 @@ Thank you very much!
 * Add an entry point from the `index.html` page.
 * Accept input from the user to change the text shown.
 * Accept input from the user to customize other properties as:
-..* Font family.
-..* Background color.
-..* Foreground color(s).
-..* Support for gradients in Background and Foreground.
-..* Particle radius (size).
-..* Mouse repel radius.
-..* Support for images in addition to text.
+  * Font family.
+  * Background color.
+  * Foreground color(s).
+  * Support for gradients in Background and Foreground.
+  * Particle radius (size).
+  * Mouse repel radius.
+  * Support for images in addition to text.
 * Estimate the least possible area to scan into `getImageData` to optimize memory and cpu usage.
 * Find general optimization opportunities.
